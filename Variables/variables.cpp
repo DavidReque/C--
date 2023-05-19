@@ -1,3 +1,4 @@
+    // La biblioteca iostream es incluida para permitir la entrada y salida estándar en C++.
 #include <iostream>
 #include <string>
 
