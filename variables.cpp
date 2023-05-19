@@ -7,8 +7,10 @@ int main() {
     // Variable entera para almacenar números enteros
     int numeroEntero = 56;
 
-    // Variable de punto flotante para almacenar números decimales
+    // Variable de tipo float para almacenar un número decimal de precisión simple
     float numeroDecimal = 0.56;
+
+    // Variable de tipo double para almacenar un número decimal de precisión doble
     double numeroDecimalDoble = 1.74;
 
     // Variable booleana para almacenar verdadero o falso
